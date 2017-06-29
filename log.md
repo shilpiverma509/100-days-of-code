@@ -1,30 +1,39 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 11&12: June 25&26 , 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:Day 11&12: Finished the  Responsive web design course on udemy @jonasschmedtman .
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I have always struggled with CSS, but, this course has given me confidence.  Learned a lot from basic to advanced. Have to make the portofolio page now to use this.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/overview
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 13&14: June 27&28 , 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished the first three  chapeters of You Don't Know JS: this & Object Prototypes: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Learned about Objects in detail. How to use "this" keyword. Lernt about  the rules of default,explicit, hard and Implicit Bindings for "this".
+Learnt about "new" and its rules.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+New : If we put new keyword in front of a function call, it creates a brand new constructor of that function call. The following 4 things happen when we use new :
 
 
-### Day 1: June 27, Monday
+	1. A brand new object is created.
+	2. *This object gets linked to a different object.
+	3. Brand new object gets bound to this keyword for that function call.
+	4. If that function doesnt otherwise return anything , it will implicitly insert  a return this. (so that brand new object will be returned for that call
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+ Determine the Order Of Precedence
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+	1. Was the function called with "new"? If yes, use that object.
+	2. If not, was the function called with "call" or "apply" specifying an explicit this?-If yes use that object.
+	3. Was the function called via a containing/owning object (context)-if so, use that object.
+	4. DEFAULT: global object(except strict mode).
+
+
+Note :New keyword is  able to override hard binding
+
+
+
+
