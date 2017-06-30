@@ -34,6 +34,18 @@ New : If we put new keyword in front of a function call, it creates a brand new 
 
 Note :New keyword is  able to override hard binding
 
+### Day 15: June 29 , 2017 
+
+**Today's Progress**: Resumed working on Twitch Viewer from fcc intermediate projects: 
+
+**Thoughts:** Took me long to figure out the api and got it working. 
+
+**Link to work:** https://codepen.io/shilpiverma/pen/rwJeXL?editors=1010
+
+		
+
+
+
 
 
 
