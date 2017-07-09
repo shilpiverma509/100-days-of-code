@@ -42,7 +42,17 @@ Note :New keyword is  able to override hard binding
 
 **Link to work:** https://codepen.io/shilpiverma/pen/rwJeXL?editors=1010
 
+
+### Day 16&17: July 7&8 , 2017 
+
+**Today's Progress**: Finished You Don't Know JS: this & Object Prototypes
+
+
+**Thoughts:** 
+
+
 		
+
 
 
 
