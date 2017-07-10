@@ -48,7 +48,12 @@ Note :New keyword is  able to override hard binding
 **Today's Progress**: Finished You Don't Know JS: this & Object Prototypes
 
 
-**Thoughts:** 
+### Day 18: July 9, 2017 
+
+**Today's Progress**: strarted with Portfolio Page
+
+
+**Thoughts:** Have to work on aligning text with images. Should complete in a couple of days
 
 
 		
