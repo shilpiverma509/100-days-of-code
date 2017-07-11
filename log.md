@@ -57,6 +57,12 @@ Note :New keyword is  able to override hard binding
 
 
 		
+### Day 19: July 10, 2017 
+
+**Today's Progress**: Completed the Projects part of the Portfolio. 
+
+
+**Thoughts:** Still have to figure out the animations and improve on my css.
 
 
 
