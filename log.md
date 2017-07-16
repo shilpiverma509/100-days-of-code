@@ -64,6 +64,14 @@ Note :New keyword is  able to override hard binding
 
 **Thoughts:** Still have to figure out the animations and improve on my css.
 
+### Day 20-25: July 16, 2017 
+
+**Today's Progress**: Submitted pset0,pset1 of cs50 
+
+
+**Thoughts:** Wasn't that tough. Finished within a week.
+
+
 
 
 
