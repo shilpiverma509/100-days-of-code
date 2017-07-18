@@ -72,6 +72,14 @@ Note :New keyword is  able to override hard binding
 **Thoughts:** Wasn't that tough. Finished within a week.
 
 
+### Day 26: July 17, 2017 
+
+**Today's Progress**: Finished pset2 of cs50 (initials(more comfortable) and caesers cipher (less-commfortable)
+
+
+**Thoughts:** Will try for the crack (more comfortable before submitting)
+
+
 
 
 
