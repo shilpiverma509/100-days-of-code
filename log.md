@@ -79,6 +79,13 @@ Note :New keyword is  able to override hard binding
 
 **Thoughts:** Will try for the crack (more comfortable before submitting)
 
+### Day 27: July 17, 2017 
+
+**Today's Progress**: Finished gooing through the lectures of week3 of cs50. 
+
+
+**Thoughts:** Will aim to complete the the Vigenère’s cipher tomorrow along with sorting
+
 
 
 
