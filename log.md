@@ -93,6 +93,15 @@ Note :New keyword is  able to override hard binding
 
 **Thoughts:** Took me quite som time to figure out vigenere's cipher but it was a good learning.
 
+### Day 29: November 12 , 2017 
+coudn't update this log for a log time. Starting again today
+
+**Today's Progress** : Contributed in an opn source project with Code for Social good and solved an issue.
+stared with Node.js course on Udemy free code camp's Tic toe game.
+
+** Link to work ** : https://github.com/Code4SocialGood/c4sg-web/pull/1586
+
+**Thoughts:** Currently going through P1xt guides, YdkjS, UDemy Node.js course and open source projects 
 
 
 
